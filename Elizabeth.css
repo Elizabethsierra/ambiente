@@ -1,0 +1,43 @@
+body{	
+border: 8px solid;
+margin-top: 15px;
+margin-left: 15px;
+margin-right: 15px;
+border-color: black;
+background: 				#84a76f;
+}
+
+p{
+margin-left: 40px;
+margin-right:40px;
+text-align: justify;
+font-size: 15px;
+}
+img{ 
+border-style: dashed;
+border-width: 8px;
+border-color:#2c6419 #68366b #40ff8c #6b3a36;
+border-radius: 80px;
+}
+
+ol li{
+				font-size:15px
+}
+h1{
+		color:#493325;		
+}
+h2{
+				color:#95ffa2;
+}
+h3{
+				color:#15e0ff;
+}
+h5{
+				color:#53001f;
+}
+h4{
+				color:#49db82;
+}
+p{
+				color:#060f44;
+}
